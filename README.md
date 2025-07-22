@@ -12,7 +12,7 @@ Feel free to explore, fork, or just take a peek.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🚀  I'm currently working on [this blog](http://0xheathc1iff.netlify.app/)
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
 
